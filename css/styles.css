@@ -1,0 +1,45 @@
+
+
+.grades {
+    margin-top: 50px;
+}
+
+.navbar {
+    top: 0;
+    
+    width: 100%;
+
+}
+
+
+
+.button-photo-grid:hover, .button-one-photo:hover{
+    background: rgb(211, 210, 210);
+
+}
+
+.teste3:hover, .teste4:hover {
+    color: white !important;
+}
+
+
+.visual {
+    z-index:-1;
+    position: absolute;
+}
+
+
+.myimg {
+    padding: 1px;
+}
+
+.main {
+    background: #ededed;
+}
+
+.container-fluid .row * img {
+
+    max-height: 100%;
+    max-width: 100%;
+  
+} 
